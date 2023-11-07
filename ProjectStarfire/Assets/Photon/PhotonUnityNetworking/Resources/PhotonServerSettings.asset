@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: PhotonServerSettings
   m_EditorClassIdentifier: 
   AppSettings:
-    AppIdRealtime: 6d428f79-11a2-4231-94a1-34fbe6ea786d
+    AppIdRealtime: 5cb01e9f-ecc7-45dc-befa-39fdbf4ba531
     AppIdFusion: 
     AppIdChat: 
-    AppIdVoice: dddc8b1a-b5bf-4640-9f96-0f3b3f6477c8
+    AppIdVoice: 057cc2b5-4451-4f40-8c1e-0f9738e37e13
     AppVersion: omnytag
     UseNameServer: 1
     FixedRegion: us
