@@ -49,7 +49,6 @@ PlayerSettings:
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 1
   m_ActiveColorSpace: 1
-  unsupportedMSAAFallback: 0
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -326,6 +325,9 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 2943019373294791793, guid: a81b6ebc0adeefa48ba67ca9ac013392, type: 2}
+  - {fileID: 11400000, guid: e11de60c81540a8419df2c3173c1157a, type: 2}
+  - {fileID: 3014314062497955543, guid: 709b0f131d51600479c6fb644562d1e9, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
